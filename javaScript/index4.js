@@ -1,5 +1,5 @@
-function saudar(){
-    console.log("ola mundo")
+function saudar(nome){
+    console.log("ola "+nome)
 }
 
-saudar()
+saudar("Maria")
