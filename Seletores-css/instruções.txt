@@ -1,0 +1,20 @@
+1. Aplicar a todos os elementos da página os estilos abaixo:
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    line-height: 1.5; 
+
+2. Aplicar aos elementos HTML descritos abaixo os estilos indicados:
+    body: background-color: #FEFFD2;
+    h1: color: #FF0000; font-size: 32px;
+    h2: color: #e6532e; font-size: 24px;
+
+3. Aplicar a todos os elementos que possuem o atributo class = "exemplo" 
+   a cor do texto #FF7D29; 
+
+4. Aplicar ao elemento que possui o atributo id = "destaque" os seguintes estilos:
+    color: #365E32;
+    text-transform: uppercase;
+    font-weight: bold; 
+
+5. Aplicar a todos os elementos li que possuem o atributo class = "exemplo"
+   o estilo font-style: italic; 

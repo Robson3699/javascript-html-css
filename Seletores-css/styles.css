@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+*{
+    
+    font-size: 18px;
+    line-height: 1.5;
+}
+#destaque{
+    color: #365E32;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.exemplo{
+    color: #FF7D29;
+    font-style: italic;
+}
+
+body{
+    background-color: #FEFFD2;
+}
+h1{
+    color: #FF0000; font-size: 32px;
+}
+h2{
+    color: #e6532e; font-size: 24px;
+}

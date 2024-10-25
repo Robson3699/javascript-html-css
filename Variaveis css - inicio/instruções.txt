@@ -1,0 +1,11 @@
+No arquivo styles CSS, escreva código para aplicar as seguintes cores:
+
+1. A cor de fundo do documento HTML deve ser da cor "darkmagenta".
+2. O h1 deve ter o texto da cor "whitesmoke".
+3. O elemento cujo id = "exemplos" deve ter uma borda com 3px de espessura, 
+   sólida da cor #ff9900.
+4. O elemento cuja classe = "nome" deve ter o texto da cor "yellow".
+5. O elemento cuja classe = "rgb" deve ter o texto da cor rgb(6, 208, 1).
+6. O elemento cuja classe = "hex" deve ter o texto da cor #94FFD8.
+7. O elemento cuja classe = "hsl" deve ter o texto da cor hsl(0, 100%, 80%).
+
