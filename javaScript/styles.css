@@ -1,0 +1,11 @@
+#quadrado{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+}
+button{
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: cell;
+}
